@@ -1,0 +1,10 @@
+{
+    "id": "my-plugin",
+    "name": "Date, Tag, and Folder Filter",
+    "version": "1.0.0",
+    "minAppVersion": "0.12.0",
+    "description": "A plugin to create a shortcode that filters notes by date, tags, and folder.",
+    "author": "Tucker Bradfored",
+    "authorUrl": "https://tuckerbradford.com",
+    "isDesktopOnly": false
+}
