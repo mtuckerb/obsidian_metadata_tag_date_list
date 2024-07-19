@@ -20,11 +20,11 @@ You can leave `folder_filter` and `start_date`\ `end_date` out if you like and i
 That's it. Your results will look like
 
 [[2024-07-13]]
-- mood_notes:: <the note>
+- mood_notes:: {{the note}}
 
 [[2024-07-14]]
-- mood_notes: <the note>
-- <tagged content> 
+- mood_notes: {{the note}}
+- {{tagged content}} 
 ...
 
 ---
